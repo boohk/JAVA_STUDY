@@ -6,10 +6,5 @@ public class Main {
 		Context test = new Context(new OperationAdd());
 		test.excuteStrategy(11, 10);
 	}
-	
-	
-	//Java is so hard!!!!!!!!!!!!!!!!!!!!!! Crazy!!!!!!!!!!!!
-	//Dog dog = new Dog(new Animal());
-	
 
 }
